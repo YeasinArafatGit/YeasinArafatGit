@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
-<h3 align="center">Mobile App developer & expert</h3>
+### Hi there 👋, my name is Yeasin Arafat
+#### I am  Mobile App developer & expert
+![I am  Mobile App developer & expert](https://github.com/YeasinArafatGit/YeasinArafatGit/blob/main/it-professions-isometric-set-with-developer-symbols-isolated-vector-illustration_1284-77555.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarafatgit&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarafatgit" /> </p>
+Hello , it is I. who am an Android App Developer with  JavaScript.
 
-- 🔭 I’m currently working on **Android**
+Skills: Java / PHP/ SQLite / MySQL/ OOPS / Firebase/etc
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/YAR.rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100086793237609" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iyaachin638/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iyaachin638/" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on Android App 
+- 🌱 I’m currently learning Mobile App 
+- 💬 Ask me about Java / PHP/ SQLite / MySQL/ OOPS / Firebase/etc 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinarafatgit&show_icons=true&locale=en&layout=compact" alt="yeasinarafatgit" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YeasinArafatGit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/YAR.rony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iyaachin638/)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeasinarafatgit&" alt="yeasinarafatgit" /></p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinArafatGit)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YeasinArafatGit&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/YeasinArafatGit/contributions?format=svg&private=true)  
+
